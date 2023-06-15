@@ -6,7 +6,7 @@ All machine instructions on the standard version of the Simplified Instructional
 ```
 opcode(8)  x(1)   address(15)
 ```
-* The number in the parentheses next to a particular indicate the number of bits needed to specify the value of that field.
+* The number in the parentheses next to a particular field indicate the number of bits needed to specify the value of that field.
 * `x` is used to indicate indexed-addressing mode.
 
 ### Example
